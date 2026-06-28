@@ -1,1 +1,1 @@
-Ajustes: quadro de média mensal no gráfico de contratos sem desconfigurar layout; filtros de Suprimento de Fundos com multisseleção e seleção por texto contido; gráficos SF corrigidos.
+Ajustes: quadro de média mensal sobreposto ao lado direito do gráfico sem comprimir a área; filtros de Suprimento de Fundos convertidos para multisseleção com busca por texto contido; carregamento do Plotly garantido no painel SF.
